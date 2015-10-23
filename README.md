@@ -1,5 +1,8 @@
 # REFLEXRUN
+
 CREATED BY QUARTZ AND ZEV
+
+[![Join the chat at https://gitter.im/quartz55/reflexrun](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/quartz55/reflexrun?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ### HOW TO GET STARTED
 
@@ -8,11 +11,6 @@ CREATED BY QUARTZ AND ZEV
   To *install* Reflexrun, just extract the contents of the zip into a folder called "reflexrunHUD" in the Reflex “ui” folder.
   
   It will look somewhat like this: **Reflexfps -> base -> internal -> ui -> reflexrunHUD**
-
-* ##### Installing the Maps
-
-  Copy the maps included in the pack (and future RRmaps) into the Reflex Maps folder.
-  Which you can find here: **Reflexfps -> Base -> internal - > Maps**
 
 * ##### Play Reflexrun!
 
